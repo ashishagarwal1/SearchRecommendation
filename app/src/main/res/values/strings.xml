@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchRecommendation</string>
+    <string name="action_settings">Settings</string>
+    <string name="some_error_occured">Some error Occured.</string>
+</resources>
